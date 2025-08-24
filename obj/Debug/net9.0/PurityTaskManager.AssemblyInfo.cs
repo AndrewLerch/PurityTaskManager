@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PurityTaskManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+854bc47a7cbb22602363fe12d0efd3b666e7ae91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+726d8f0db06d353600cb2ecb5a284c14ab1068b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PurityTaskManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PurityTaskManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
